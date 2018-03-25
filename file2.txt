@@ -5,3 +5,5 @@ file2 extra content not added yet.
 
 This file2 content not staged.
 
+This i'm gonna staged.
+
