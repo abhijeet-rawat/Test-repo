@@ -1,3 +1,6 @@
 This difference not staged.
 alpha beta gamma
 Introduction to stash
+This is added to branch 1
+More and more changes
+Adding to master
