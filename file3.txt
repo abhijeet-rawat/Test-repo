@@ -4,3 +4,4 @@ Introduction to stash
 This is added to branch 1
 More and more changes
 Adding to master
+This i'm going to change in b2 and then add it to master
