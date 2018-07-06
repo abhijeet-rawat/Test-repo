@@ -1,6 +1,6 @@
 This difference not staged.
 alpha beta gamma
-Introduction to stash
+B3 Changes made some more changes made.
 This is added to branch 1
 More and more changes
 Adding to master
